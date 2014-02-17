@@ -1,0 +1,4 @@
+obj/pbkdf2.o: pbkdf2.cpp \
+  /Users/mark/Dropbox/projects/cosmoscoin/src/pbkdf2.h
+pbkdf2.cpp :
+  /Users/mark/Dropbox/projects/cosmoscoin/src/pbkdf2.h :

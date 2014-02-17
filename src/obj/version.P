@@ -1,0 +1,8 @@
+obj/version.o: version.cpp \
+  /Users/mark/Dropbox/projects/cosmoscoin/src/version.h \
+  /Users/mark/Dropbox/projects/cosmoscoin/src/clientversion.h \
+  /Users/mark/Dropbox/projects/cosmoscoin/src/obj/build.h
+version.cpp :
+  /Users/mark/Dropbox/projects/cosmoscoin/src/version.h :
+  /Users/mark/Dropbox/projects/cosmoscoin/src/clientversion.h :
+  /Users/mark/Dropbox/projects/cosmoscoin/src/obj/build.h :
